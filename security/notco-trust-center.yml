@@ -1,0 +1,17 @@
+generated: '2026-07-20'
+method: searched
+probe: true
+source: https://trust.notco.com/
+url: https://trust.notco.com/
+platform: Vanta
+title: The Not Company Trust Center
+# The trust center is a Vanta-hosted Trust Report. The certification list is
+# rendered client-side (JavaScript) and is not present in the static HTML, so
+# no specific certifications (SOC 2 / ISO 27001 / etc.) could be verified
+# without fabricating. `certifications` is intentionally left empty rather than
+# guessed; re-run with a JS-rendering fetch to enumerate the named certs.
+certifications: []
+evidence:
+  - source: https://trust.notco.com/
+    status: 200
+    keywords: [trust center, vanta]

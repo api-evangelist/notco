@@ -1,7 +1,29 @@
 aid: notco
 name: Notco
-description: Notco is a company surfaced as a portfolio company of general-catalyst and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  NotCo (The Not Company) is a food-technology company founded in 2015 in
+  Santiago, Chile that uses artificial intelligence — its proprietary "Giuseppe"
+  platform — to reverse-engineer animal-based foods from plant ingredients. Its
+  consumer brand at notco.com sells plant-based products including NotMilk,
+  NotMayo, NotBurger and NotIceCream across the Americas, while NotCo AI
+  (notco.ai) licenses the Giuseppe AI R&D platform to global CPG manufacturers
+  such as PepsiCo, Magnum and Barry Callebaut to accelerate food-product
+  innovation. The company is backed by General Catalyst and other investors.
+  NotCo publishes no public developer API; this profile captures its corporate,
+  product, AI-platform and trust/compliance web surface for the API Evangelist
+  network.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/66196b3c9d88038dad5caa07/69c4156c61985c7665abed53_favicon-256x256.png
 url: https://raw.githubusercontent.com/api-evangelist/notco/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +33,51 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Food Technology
+- Artificial Intelligence
+- Plant-Based
+- CPG
+- Food and Beverage
+- Machine Learning
+- Sustainability
 apis: []
+common:
+- type: DomainSecurity
+  url: security/notco-domain-security.yml
+- type: Website
+  name: NotCo Website
+  url: https://notco.com/
+- type: Website
+  name: NotCo AI Platform
+  url: https://www.notco.ai/
+- type: About
+  name: About NotCo
+  url: https://notco.com/about-us
+- type: Products
+  name: NotCo Products
+  url: https://notco.com/products
+- type: CaseStudies
+  name: NotCo AI Case Studies
+  url: https://www.notco.ai/case-studies
+- type: Support
+  name: Contact NotCo AI
+  url: https://www.notco.ai/contact-us
+- type: TrustCenter
+  name: NotCo Trust Center
+  url: https://trust.notco.com/
+- type: TrustCenter
+  name: NotCo Trust Center (artifact)
+  url: security/notco-trust-center.yml
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1
