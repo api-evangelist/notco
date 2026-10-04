@@ -50,9 +50,9 @@ tags:
 - Food Technology
 - Artificial Intelligence
 - Plant-Based
-- CPG
+- Consumer Packaged Goods
 - Food and Beverage
-- Machine-Learning
+- Machine Learning
 - Sustainability
 tags_raw:
 - Company
@@ -63,6 +63,7 @@ tags_raw:
 - Food and Beverage
 - Machine Learning
 - Sustainability
+- Machine-Learning
 apis: []
 common:
 - type: DomainSecurity
