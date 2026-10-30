@@ -64,6 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Notco is a company surfaced as a portfolio company of general-catalyst and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+NotCo (The Not Company) is a food-technology company founded in 2015 in Santiago, Chile that uses artificial intelligence — its proprietary "Giuseppe" platform — to reverse-engineer animal-based foods from plant ingredients. Its consumer brand at notco.com sells plant-based products including NotMilk, NotMayo, NotBurger and NotIceCream across the Americas, while NotCo AI (notco.ai) licenses the Giuseppe AI R&D platform to global CPG manufacturers such as PepsiCo, Magnum and Barry Callebaut to accelerate food-product innovation. The company is backed by General Catalyst and other investors. NotCo publishes no public developer API; this profile captures its corporate, product, AI-platform and trust/compliance web surface for the API Evangelist network.
 
-Backed by: general-catalyst
+**Areas:** Company · Food Technology · Artificial Intelligence · Plant-Based · Consumer Packaged Goods · Food and Beverage · Machine Learning · Sustainability
+
+## Notco on APIs.io
+
+Everything profiled for Notco is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/notco/](https://apis.io/providers/notco/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Notco Domain Security](https://apis.io/security/notco/notco-domain-security/)
+- [Notco Trust Center](https://apis.io/security/notco/notco-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://notco.com/)
+- [Support](https://www.notco.ai/contact-us)
+- [Trust centre](https://trust.notco.com/)
+
+## API Evangelist rating
+
+**Kin Score 6.6** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.0** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/notco/](https://apis.io/providers/notco/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Notco: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/notco/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
